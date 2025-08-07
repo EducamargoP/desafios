@@ -23,4 +23,35 @@ Foi uma ótima oportunidade para reforçar conceitos como: ✔️ Estrutura de d
 Esse tipo de exercício é um excelente treino para quem está se aprofundando em lógica de programação e desenvolvimento em Python. E claro, cada erro foi uma chance de aprender mais!
 
 🚀 Que venham os próximos desafios!
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 🚀 Planner de Estudos com Sistema de Recompensas e Castigos
+
+Desenvolvendo meu primeiro projeto funcional em Python!
+
+Nos últimos dias, venho me dedicando a aprender e me aperfeiçoar em Python — enfrentando desafios reais e colocando a mão no código. Um dos maiores aprendizados foi entender que a prática é o melhor caminho para evoluir.
+
+Com o apoio de uma IA interativa, consegui transformar uma ideia simples em algo concreto: um **Planner de Estudos com Sistema de Recompensas e Castigos**.  
+O projeto nasceu com o objetivo de ajudar estudantes a manterem disciplina e organização nos estudos semanais, e já conta com funcionalidades como:
+
+✅ Cadastro de matérias e horários  
+✅ Planejamento distribuído ao longo da semana  
+✅ Registro diário de cumprimento  
+✅ Sistema de motivação com elogios e castigos automáticos  
+✅ Interface interativa via terminal  
+✅ Geração de planilha com o cronograma de estudos
+
+💡 O próximo passo? Transformar esse planner em um programa realmente utilizável — com salvamento de dados, menu interativo e talvez até uma interface gráfica ou versão web.
+
+Ainda estou aprendendo sobre funções, manipulação de arquivos e estruturação de projetos, mas cada linha de código escrita é uma conquista.  
+A jornada está só começando, e estou animado para continuar evoluindo!
+
+---
+
+## 🧠 Tecnologias utilizadas
+
+- Python 3
+- Estruturas de dados: listas, dicionários, funções
+- Interface via terminal (modo texto)
+
 

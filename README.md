@@ -22,7 +22,7 @@ Foi uma ótima oportunidade para reforçar conceitos como: ✔️ Estrutura de d
 
 Esse tipo de exercício é um excelente treino para quem está se aprofundando em lógica de programação e desenvolvimento em Python. E claro, cada erro foi uma chance de aprender mais!
 
-🚀 Que venham os próximos desafios!
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🚀 Planner de Estudos com Sistema de Recompensas e Castigos
